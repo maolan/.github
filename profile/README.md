@@ -20,6 +20,7 @@ Maolan is a free, open-source DAW built in Rust, focused on recording, editing, 
 |------------|-------------|
 | [`maolan`](https://github.com/maolan/maolan) | The main DAW application |
 | [`plugins`](https://github.com/maolan/plugins) | Audio plugins for the Maolan ecosystem |
+| [`editor`](https://github.com/maolan/editor) | Audio editor |
 | [`mixosc`](https://github.com/maolan/mixosc) | OSC mixing utilities |
 | [`engine`](https://github.com/maolan/engine) | Audio engine powering Maolan |
 | [`generate`](https://github.com/maolan/generate) | Maolan AI for generating music |
